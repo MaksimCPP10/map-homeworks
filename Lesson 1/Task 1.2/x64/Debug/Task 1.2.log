@@ -1,0 +1,12 @@
+﻿  Task 1.2.cpp
+C:\Users\Максим\Desktop\map-homeworks\Lesson 1\Task 1.2\Task 1.2.cpp(42,61): warning C4267: аргумент: преобразование из "size_t" в "_Ty"; возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Максим\Desktop\map-homeworks\Lesson 1\Task 1.2\Task 1.2.cpp(47,61): warning C4267: аргумент: преобразование из "size_t" в "_Ty"; возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+  Task 1.2.vcxproj -> C:\Users\Максим\Desktop\map-homeworks\Lesson 1\Task 1.2\x64\Debug\Task 1.2.exe
